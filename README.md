@@ -1,10 +1,9 @@
-# Ejemplo Documentación 
+# Estacion de subte
 ![Tinkercad](./img/ArduinoTinkercad.jpg)
 
 
 ## Integrantes 
-- Esteban Marcelo Quiroz 
-- Dario Cuda 
+- Luca Gargiulo
 
 
 ## Proyecto: Contador binario.
